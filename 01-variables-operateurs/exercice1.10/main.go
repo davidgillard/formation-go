@@ -12,7 +12,7 @@ func main() {
 	fmt.Println(count)
 	count -= 5
 	fmt.Println(count)
-	name := "David"
-	name += " Gillard"
-	fmt.Println("Привет,", name)
+	nom := "David"
+	nom += " Gillard"
+	fmt.Println("Привет,", nom)
 }
